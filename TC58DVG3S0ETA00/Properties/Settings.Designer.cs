@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TC58NVG0S3ETA00.Properties {
+namespace TC58DVG3S0ETA00.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
